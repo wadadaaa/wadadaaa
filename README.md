@@ -11,7 +11,7 @@
 ```javascript
 const wadadaaa = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Javascript, Typescript, HTML, CSS, Python, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, AWS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
