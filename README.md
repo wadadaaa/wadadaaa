@@ -18,7 +18,7 @@ const wadadaaa = {
       mentor: "Django Girls"
   },
   sport: {
-      thriatlet: "IronMan 70.3"
+      triathlete: "IronMan 70.3"
   },
 }
 ```
