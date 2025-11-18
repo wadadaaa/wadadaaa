@@ -10,17 +10,64 @@
 
 ```javascript
 const wadadaaa = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, PHP],
-  tools: [React, Redux, Node, Storybook, Styled-Components, AWS],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  name: "Anna Lopatinski",
+  handle: "wadadaaa",
+
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+
+  frameworks: [
+    "React",
+    "Next.js",          // Sycamore Promo, Revit Assistant, GPT4 PDF chatbot
+    "Node.js",
+    "Gatsby"
+  ],
+
+  ui: [
+    "Tailwind CSS",     // Sycamore Promo, Revit Assistant, GPT4 PDF chatbot
+    "Styled Components",
+    "Storybook"
+  ],
+
+  backendAndBots: [
+    "Node.js",
+    "Express",
+    "Telegram Bot API"  // training-calendar-bot
+  ],
+
+  platforms: [
+    "Vercel",           // sycamore-promo, revit-assistant
+    "Netlify",          // happiness (Gatsby + Contentful + Netlify)
+    "AWS"
+  ],
+
+  cmsAndCommerce: [
+    "Shopify (Liquid)", // artelier
+    "Contentful"
+  ],
+
+  ai: [
+    "OpenAI API (GPT-4/GPT-4o)",
+    "LangChain",
+    "Pinecone",
+    "AI agents & tool-calling",
+    "RAG over PDFs"
+  ],
+
+  architecture: [
+    "microservices",
+    "event-driven",
+    "design systems",
+    "AI-first assistant UIs"
+  ],
+
   techCommunities: {
-      mentor: "Django Girls"
+    mentor: "Django Girls"
   },
+
   sport: {
-      triathlete: "IronMan 70.3"
-  },
-}
+    triathlete: "Ironman 70.3"
+  }
+};
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
